@@ -1,1 +1,1 @@
-# ssst.example
+# SSST Example
